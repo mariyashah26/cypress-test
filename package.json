@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "chai-sorted": "^0.2.0",
+    "cypress": "^12.3.0",
+    "init": "^0.1.2"
+  },
+  "devDependencies": {
+    "cypress-mochawesome-reporter": "^3.2.3",
+    "cypress-xpath": "^2.0.1",
+    "mochawesome": "^7.1.3"
+  }
+}
